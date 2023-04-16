@@ -42,3 +42,7 @@ Execute o arquivo main.py em seu interpretador Python, em seguida será solicita
 OBS.: Altere os dados pessoais no dicionário "exercise_data" para que o calculo sejá de acordo com suas características.
 
 Em seguida os dados serão gravados na planilha informada na API SHEETY.
+
+# Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
