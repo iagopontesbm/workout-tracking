@@ -8,8 +8,8 @@ O equivalente metabólico (MET) é uma medida que estima o gasto energético com
 Essa informações é interpretada pelo NUTRITIONIX, o retorno da API gravamos em nossa tabela com a API SHEETY.
 
 NUTRITIONIX - Essa API processa a linguagem natual(NLP) e retorna não só ativiades físicas mas também tabelas nutricional.
-URL: https://developer.nutritionix.com/
 
+URL: https://developer.nutritionix.com/
 demo: https://www.nutritionix.com/natural-demo/exercise
 
 SHEETY- Vinculando com a sua conta Google é possivel gravar informações diretamente nas planilhas selecionada.
