@@ -14,6 +14,7 @@ URL: https://developer.nutritionix.com/
 demo: https://www.nutritionix.com/natural-demo/exercise
 
 SHEETY- Vinculando com a sua conta Google é possivel gravar informações diretamente nas planilhas selecionada.
+
 URL: https://sheety.co/
 
 # Instalação
