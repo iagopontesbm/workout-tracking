@@ -9,6 +9,7 @@ Essa informações é interpretada pelo NUTRITIONIX, o retorno da API gravamos e
 
 NUTRITIONIX - Essa API processa a linguagem natual(NLP) e retorna não só ativiades físicas mas também tabelas nutricional.
 URL: https://developer.nutritionix.com/
+
 demo: https://www.nutritionix.com/natural-demo/exercise
 
 SHEETY- Vinculando com a sua conta Google é possivel gravar informações diretamente nas planilhas selecionada.
@@ -28,9 +29,11 @@ pip install requests
 Informe as chaves e as IDs nas variáveis de ambiente do Python para acesso as contas criadas. Leia na documentação da API, como configurar seus dados.
 
 NUTRITIONIX = https://docs.google.com/document/d/1_q-K-ObMTZvO0qUEAxROrN3bwMujwAN25sLHwJzliK0/edit#heading=h.gz6pu9o7f9iz
+
 SHEETY = https://sheety.co/docs/authentication.html
 
 ** IMPORTANTE **
+
 O ENDPOINT da API SHEETY é gerado dinamicamente para cada projeto, sendo assim é necessário armazenado também nas variáveis de ambiente.
 
 Execute o arquivo main.py em seu interpretador Python, em seguida será solicitado no prompt a atividade executada.
